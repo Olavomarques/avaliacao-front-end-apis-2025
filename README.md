@@ -12,15 +12,15 @@ O objetivo deste desafio é avaliar suas habilidades em desenvolvimento de pági
 
 #### Usuário ou senha incorretos:
 
-![alt text](Captura de tela 2025-07-25 143319.png)
+<img width="1910" height="902" alt="pesquisa" src="Captura de tela 2025-07-25 143319.png/">
 
 ### 2. Tela de Listagem de Posts
 
-![alt text](Captura de tela 2025-07-25 143443.png)
+<img width="1910" height="902" alt="pesquisa" src="Captura de tela 2025-07-25 143443.png/">
 
 ### 3. Tela de Detalhes do Post
 
-![alt text](Captura de tela 2025-07-25 143545.png)
+<img width="1910" height="902" alt="pesquisa" src="Captura de tela 2025-07-25 143545.png/">
 
 ### 4. Funcionalidade de Busca
 
@@ -28,7 +28,7 @@ O objetivo deste desafio é avaliar suas habilidades em desenvolvimento de pági
 
 ### 5. Responsividade UX
 
-![alt text](Captura de tela 2025-07-25 143817.png)
+<img width="1910" height="902" alt="pesquisa" src="Captura de tela 2025-07-25 143817.png/">
 
 ## Estrutura do Projeto
 
