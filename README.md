@@ -8,7 +8,7 @@ O objetivo deste desafio é avaliar suas habilidades em desenvolvimento de pági
 
 ### 1. Tela de Login
 
-![alt text](Captura de tela 2025-07-25 140355.png)
+<img width="1910" height="902" alt="pesquisa" src="Captura de tela 2025-07-25 140355.png/">
 
 #### Usuário ou senha incorretos:
 
