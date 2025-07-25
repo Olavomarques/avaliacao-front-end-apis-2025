@@ -1,13 +1,25 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-BR">
+
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- Redirecionar para ./pages/login.html -->
-    <title>Redirecionamento</title>
-    <script>
-        window.location.href = './pages/login.html';
-    </script>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Login</title>
+    <link rel="stylesheet" href="styles/main.css" />
 </head>
+
+<body>
+    <div class="login-container">
+        <h2>Login</h2>
+        <form class="login-form" id="login-form">
+            <input type="text" id="username" name="username" placeholder="Usuário" required />
+            <input type="password" id="password" name="password" placeholder="Senha" required />
+            <button type="submit">Entrar</button>
+            <p class="error-message" id="error-message" style="display: none;"></p>
+        </form>
+    </div>
+
+    <script src="scripts/login.js"></script>
+</body>
 
 </html>
