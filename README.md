@@ -24,7 +24,7 @@ O objetivo deste desafio é avaliar suas habilidades em desenvolvimento de pági
 
 ### 4. Funcionalidade de Busca
 
-![alt text](Captura de tela 2025-07-25 143717.png)
+<img width="1910" height="902" alt="pesquisa" src="Captura de tela 2025-07-25 143717.png/">
 
 ### 5. Responsividade UX
 
